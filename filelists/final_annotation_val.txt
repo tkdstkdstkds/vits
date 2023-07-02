@@ -1,0 +1,88 @@
+./custom_character_voice/hogwarts_Miba/processed_0.wav|0|na↓n^i na↑ite↓ɾɯno a↑itsɯ*ko↓so mi↑ʃeɾɯkjo↓okaŋga ma↑sʃoo ʃi↑nasait#te me↑edʑiɾaɾeta dʑi↓mbɯtsɯna n↓dakaɾa ho↓ɾahajakɯ* ko↑ogeki ʃi*↑te.
+./custom_character_voice/hogwarts_Miba/processed_1.wav|0|mi↓ijɯɯ, a↑nta↓inɯdemonainon^i so↑nna to↑koɾode i↑nɯ↓to i↑sʃon^i a↑sonde n^↓dʑanaino?
+./custom_character_voice/hogwarts_Miba/processed_2.wav|0|a↓a mo↓o o↑ko↓t#ta ko↑itsɯ↓ɾanande ko↑nnan^i te↑gowa↓i n o ha↓jakɯjaɾaɾetet#teba.
+./custom_character_voice/hogwarts_Miba/processed_3.wav|0|ɸɯ↑N, wa↑taʃi↓tatʃiwa ta↓ijooo o↑ikake↓ɾɯ o↑okamisɯ↓koɾɯto, tsɯ*↑ki↓o no↑mikɯda↓sɯ o↓okamihatino ko↑kɯiNo so↑ɾe↓zoɾe mo↑t#te↓ɾɯ n↓dakaɾa.
+./custom_character_voice/hogwarts_Miba/processed_4.wav|0|ja↑naɾase↓mpaio ta↑ose↓tato ʃi*↑temo, wa↑taʃi↓tatʃin^iwa ka↑nai↓ko na↓i n↓dakaɾa.
+./custom_character_voice/hogwarts_Miba/processed_5.wav|0|ma↑dʑimen^i ja↓t#te. dʑ a na↓ito mi↑ʃeɾɯkjo↓okann^i i↑itsɯ*ke↓ɾɯkaɾane.
+./custom_character_voice/hogwarts_Miba/processed_6.wav|0|wa↑taʃi↓tatʃiwa dʑɯ↑ɯdʑiN ta↓da o↓okamino ko↑kɯiŋga a↓ɾɯdake so↑ɾen^i ko↑ɾewa ne↑ko↓mimi o↓okamino mi↑mi↓dʑanai n o ʃi↑k#ka↓ɾi mi↓te tʃo↑oda↓ijone ko↑no ba↑ka↓inɯ.
+./custom_character_voice/hogwarts_Miba/processed_7.wav|0|ɾe↑iɾakjo↓okaN!
+./custom_character_voice/hogwarts_Miba/processed_8.wav|0|ɯ↓ɯ…… k o, ko↑ɾewa……
+./custom_character_voice/hogwarts_Miba/processed_9.wav|0|sa↓k#ki* to↑tsɯzeN sɯ↑go↓kɯ*kimotʃiii ka↑ŋkakɯga ʃi*↑te ka↑ɾadano ʃi*↑tano ho↓oga kɯ*↑sɯgɯt#ta↓kɯ*te ma↓saka mjɯ↓ɯga ka↓ɾeɾan^i na↓n^ika sa↑ɾete↓ɾɯtoka.
+./custom_character_voice/hogwarts_Miba/processed_10.wav|0|ka↑n^dʑiɾɯdakedʑanakɯ*te, wa↑taʃi↓tatʃino a↑idano ka↑n^dʑi↓katawa to↓kɯn^i kjo↑oɾetsɯde… ɸɯ↑N, ko↓ndowa mɯ↑ne↓ga… mɯ↑ne↓ga kɯ*↑sɯgɯt#ta↓i…
+./custom_character_voice/hogwarts_Miba/processed_11.wav|0|ki↑motʃino i↓i ko↑to? s o, so↑ɾet#te, a↑no m a a↑kiɾa↓dʑɯtsɯno ko↑to↓desɯ*ka?
+./custom_character_voice/hogwarts_Miba/processed_12.wav|0|mo↓ʃi* so↑nnan^i ki*↑kenna o↑toko↓naɾa, ma↑sɯ↓masɯ* ha↑na↓t#tewa o↑kemase↓N. so↑ɾen^i, mi↓ijɯno kjɯ↑ɯ↓o ɯ↑ta↓nakja!
+./custom_character_voice/hogwarts_Miba/processed_13.wav|0|ɾe↑idakjookaNo↓negaidesɯ* tʃi↑kaɾa↓o ka↑ʃi*te kɯ↑dasa↓i ko↓ndowa ze↑t#tain^i a↑itsɯo ta↑oʃima↓sɯ*.
+./custom_character_voice/hogwarts_Miba/processed_14.wav|0|da↓ɾega o↑mae↓tatʃinaŋkato a↑sobɯ↓ka! mi↓jɯ, ha↓jakɯ o↓ide ko↓naito o↑ne↓etʃaN o↑ko↓ɾɯjo so↑ɾeto, wa↑taʃino i↑mooto↓n^i a↑nna ge↑sɯna ko↑to sɯ↑ɾɯ↓nante.
+./custom_character_voice/hogwarts_Miba/processed_15.wav|0|jɯ↑ɾɯʃimase↓N!
+./custom_character_voice/hogwarts_Miba/processed_16.wav|0|a↑no mi↓jɯga wa↑taʃin^i ha↑ŋkoo sɯ↑ɾɯ↓nante…
+./custom_character_voice/hogwarts_Miba/processed_17.wav|0|kjo↑okanno ha↓gɯ, to↑t#temo a↑t#taka↓i.
+./custom_character_voice/hogwarts_Miba/processed_18.wav|0|ɯ↓N. wa↑taʃi↓tatʃi, ga↑kɯinno a↓idoɾɯna n↓damoN. a↓idoɾɯga he↑ntain^i ma↑keɾɯ wa↓ken^iwa i↑kanai!
+./custom_character_voice/hogwarts_Miba/processed_19.wav|0|ɸi↓iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.
+./custom_character_voice/hogwarts_Miba/processed_20.wav|0|kɯ↓ɾɯ sa↓ikono ba↑kai↓mooto te↑kio ta↑sɯ*ke↓ɾɯ ho↓on^i ma↑waɾɯ↓nante.
+./custom_character_voice/hogwarts_Miba/processed_21.wav|0|ɸɯ↑NQ, ko↑no te↑edode na↓n^io e↑ɾa↓soon^i a, i↑t#te o↑kɯ↓kedo, a↑na↓tao ta↑sɯ*ke↓ɾɯ ta↑me↓n^i ki↓ta n^↓dʑanaikaɾane.
+./custom_character_voice/hogwarts_Miba/processed_22.wav|0|ta↓da, mi↑ɯga a↑nata↓tatʃi*to a↑sobita↓it#te i↑ɯ↓kaɾa ki↓te a↑ge↓tano. i↑mooto↓o ma↑moɾa↓nakɯ*tʃa i↑kenaiʃi.
+./custom_character_voice/hogwarts_Miba/processed_23.wav|0|a↑itsɯ*to tʃɯ↑ɯn^ibjooge↓emɯnaŋka o↑kotowaɾijo ha↑zɯkaʃi↓i.
+./custom_character_voice/hogwarts_Miba/processed_24.wav|0|wa↓zawaza dʑi↑kaNo sa↓ite a↑nata↓tatʃino ɾe↑Nʃɯɯn^i tsɯ*↑kia↓ɯ n↓dakaɾa, jo↑ɾoko↓nde tʃo↑oda↓i?
+./custom_character_voice/hogwarts_Miba/processed_25.wav|0|ha↓Q, i↓ma no↑wa te↑ka↓geN ʃi*↑te↓ɾɯ. ta↓dano mo↑giseen^i ze↑Nɾjokɯo da↓sɯ* çi↑tsɯjoowa na↓it#te.
+./custom_character_voice/hogwarts_Miba/processed_26.wav|0|s o, so↑nna n^↓dʑanakɯ*te…… de↓mo, ho↑ntoon^i ta↑noʃi↓kat#ta……
+./custom_character_voice/hogwarts_Miba/processed_27.wav|0|wa↑taʃi*to mi↓iNwa so↑ɾe↓zoɾe, ta↓ijooo o↑ikake↓ɾɯ o↑okamisɯ↓kɯɾɯto, tsɯ*↑ki↓o ka↓mikɯɾaɯ o↓okamihatino ko↑kɯiNo mo↓t#te i↑ɾɯ↓nojo. jo↓kɯ o↑boe↓te o↑kinasai.
+./custom_character_voice/hogwarts_Miba/processed_28.wav|0|mo↓ʃi mi↑ɯo i↑dʑimeta↓ɾa jɯ↑ɾɯsa↓naiwajo.
+./custom_character_voice/hogwarts_Miba/processed_29.wav|0|tʃi↑aɾi↓idiŋgɯno ɾe↑Nʃɯɯi↓gain^i, dʑi↑tsɯ↓wa da↑idokjo↓okann^i ɯ↑ta↓o ma↑nabita↓ito o↑mot#te↓ɾɯno.
+./custom_character_voice/hogwarts_Miba/processed_30.wav|0|a↓a, i↓ma ko↑sso↓ɾi sa↑wat#ta↓deʃo. ko↑no ma↓e i↑kinaɾi kɯ*↑sɯgɯt#ta↓kɯnat#tanot#te, mi↓jɯn^i ɸɯ↑ɾetan^i tʃi↑gainai.
+./custom_character_voice/hogwarts_Miba/processed_31.wav|0|ɸɯ*↑tagowa i↓i to↑koɾomo ta↑kɯ*saN a↓ɾɯkedo ta↑gaiga tsɯ↑ɯdʑiaisɯgi↓ɾɯ no↑mo ɸɯ↓benna n↓desɯ* mi↓Nwa bo↑ot#to ʃi*↑te↓ɾɯkaɾa ko↑ɾonda to↑ki↓naŋkawa wa↑taʃimo i↑tami↓o ka↑n^dʑiɾɯ n↓desɯ*.
+./custom_character_voice/hogwarts_Miba/processed_32.wav|0|ke↑ekokɯ ʃi*↑te o↑kima↓sɯ*jo. mi↓ijɯwa mi↑mi↓o sa↑waɾaɾeɾɯ no↑ga sɯ*↑ki↓dʑanaino. wa↑taʃimone.
+./custom_character_voice/hogwarts_Miba/processed_33.wav|0|i↑mooto↓o i↑dʑimeta ja↑k#kokaɾano pɯ↑ɾe↓zentoo ɯ↑ketot#ta↓ɾi ʃi↑nai↓kaɾaN? so↑nnan^i ka↓k#ka ɾi↑ʃi↓naide kɯ↑dasaiwakaɾima↓ʃi*tajo.
+./custom_character_voice/hogwarts_Miba/processed_34.wav|0|pɯ↑ɾe↓zentot#te ɯ↑ɾeʃi↓idesɯ*ne de↓mo mjɯ↓ɯn^imo o↑nadʑi mo↑no↓o a↑ge↓te kɯ↑dasa↓i wa↑taʃi↓tatʃi* ɸɯ↑tagona n↓desɯ*kaɾa.
+./custom_character_voice/hogwarts_Miba/processed_35.wav|0|jo↑ɾoko↓nde na↑ŋkaimase↓N ʃi↑p#po↓ga jɯ↑ɾete↓ɾɯ? k o, ko↑ɾewa ha↑ega i↑tadake!
+./custom_character_voice/hogwarts_Miba/processed_36.wav|0|ko↑ɾewa ke↑ekokɯjo wa↑taʃiga i↑mooto↓to o↑nadʑi jo↓on^i ka↑ntann^i da↑ma↓saɾeɾɯto o↑mo↓wanaidejone.
+./custom_character_voice/hogwarts_Miba/processed_37.wav|0|w a? a↓nta ba↓ka? na↓nde m a a↑kiɾa↓dʑɯtsɯo çi↑ɾome↓ɾɯnon^i a↓ntato se↓k#kɯ*sɯ ʃi↑nakja na↑n↓nainojo.
+./custom_character_voice/hogwarts_Miba/processed_38.wav|0|tʃi*↑kazɯ↓kanaide, o↑koɾaseta↓ino?
+./custom_character_voice/hogwarts_Miba/processed_39.wav|0|ɯ↑wa↓Q! a↓nta, sa↑waɾanaide! so↑no ki*↑tana↓i te↓o ha↑na↓ʃinasai!
+./custom_character_voice/hogwarts_Miba/processed_40.wav|0|na↓nde so↑koga wa↑ka↓ɾɯno? ki↑motʃii↓i. so↑kowa wa↑taʃi↓tatʃio i↑tʃi↓baN ɾi↑ɾa↓k#kɯ*sɯ sa↑seɾɯ to↑koɾojo.
+./custom_character_voice/hogwarts_Miba/processed_41.wav|0|d a, da↓ɾega ka↑t#ten^i sa↑wat#teiit#te i↑t#ta↓nojo. ke↑ga ʃi*↑temo to↑ozeNjo. ɸɯ↑NQ.
+./custom_character_voice/hogwarts_Miba/processed_42.wav|0|a↑no, i↑ta↓idesɯ*ka?
+./custom_character_voice/hogwarts_Miba/processed_44.wav|0|ne↓e, a↓nta, ko↑nna ko↑to mi↓jɯn^imo ʃi*↑ta n↓deʃo? ko↑ojɯɯ ko↑to↓t#te, wa↑taʃiga i↓ma ka↑n^dʑita mi↓tain^i, ki↑motʃii↓i n↓deʃo?
+./custom_character_voice/hogwarts_Miba/processed_45.wav|0|so↑ɾet#te m a a↑kiɾa↓dʑɯtsɯt#te i↑ɯ n↓desɯ*jone mi↓jɯmo mi↑n^i tsɯ*↑ke↓tanaɾa wa↑taʃimo de↑ki↓ɾɯ ha↑zɯ↓a go↑kai ʃi↑na↓idejone a↓ntato na↓kajokɯ ʃi*↑ta↓i wa↓kedʑanainojo.
+./custom_character_voice/hogwarts_Miba/processed_46.wav|0|ta↓da i↑mooto↓ga wa↑taʃijo↓ɾi sa↑kin^i o↑nna↓n^i na↓t#ta no↑ga jɯ↑ɾɯse↓naidake.
+./custom_character_voice/hogwarts_Miba/processed_47.wav|0|gja↑a↓aa…… ki↑motʃii↓ijo…… na↓nde ko↑nna ki↑motʃii↓ino…… mo↓o tʃi*↑kaɾa↓ga ha↑iɾa↓nai……
+./custom_character_voice/hogwarts_Miba/processed_48.wav|0|ha↓a…… ko↑ɾega mjɯ↓ɯno ta↑be↓ta o↑tʃi↓n^tʃiN…… i↑kinootʃi↓n^tʃiN……
+./custom_character_voice/hogwarts_Miba/processed_49.wav|0|tʃi↑gaɯ, na↓ndemo na↓i. se↑Nse↓eno jɯ↑bi↓ga ki↑motʃijo↓sɯgite ga↓maN de↑ki↓nakat#ta wa↓kedʑanaimoN.
+./custom_character_voice/hogwarts_Miba/processed_50.wav|0|ɯ↓ɯ…… ka↑ɾadaga bi↓ɾibiɾi ʃi↑biɾe↓te kɯ*↑sɯgɯt#ta↓i…… a↑tsɯ↓i o↑jɯno na↓kan^i tsɯ*↑kat#te↓ɾɯ mi↓tain^i kɯ↓ɾakɯɾa sɯ↑ɾɯ…… de↓mo, ki↑motʃii↓i……
+./custom_character_voice/hogwarts_Miba/processed_51.wav|0|mi↓jɯno to↑ki↓mo ko↓odat#tano?
+./custom_character_voice/hogwarts_Miba/processed_52.wav|0|i, i↑ɾeɾɯ↓no…… ja↑saʃi*kɯ, ʃi*↑tejone……
+./custom_character_voice/hogwarts_Miba/processed_53.wav|0|d a, da↑idʑo↓obɯ. sɯ*↑ko↓ʃi i↑ta↓ikedo. de↓mo, ki↑n^tʃoo ʃi*↑te↓ɾɯdake.
+./custom_character_voice/hogwarts_Miba/processed_54.wav|0|ɯ↓ɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯ.
+./custom_character_voice/hogwarts_Miba/processed_57.wav|0|N↓N… N… N↓N… ko↓i… o↑tʃi↓n^tʃiN mi↓ɾɯka… N↓NN…
+./custom_character_voice/hogwarts_Miba/processed_58.wav|0|a↑na↓ta, mjɯ↓ɯn^i wa↑taʃino kɯ*↑tʃino na↓kan^i ta↑ʃi*ta↓nante i↑wana↓idejone. a↓ntano kɯ*↑sa↓i mi↓ɾɯkɯnaŋka no↑mitakɯ↓nai n↓dakaɾa. a↑ɾewa n^i↑NʃiN ʃi↑nai ta↑me↓n^i.
+./custom_character_voice/hogwarts_Miba/processed_59.wav|0|so↑nna ka↑waiso↓ona mo↑no↓o mi↓ɾɯ me↓de mi↓naidejo tsɯ↑joga↓ɾinaŋkadʑanaiwa.
+./custom_character_voice/hogwarts_Miba/processed_60.wav|0|mi↑ijɯɯ↓koɾewa do↓nna dʑo↑okjoona no↑kaʃiɾa do↓oʃi*te a↑na↓tawa wa↑taʃi↓tatʃino he↑ja↓de se↑Nse↓eno mo↑no↓o na↑me↓te i↑ɾɯ↓no.
+./custom_character_voice/hogwarts_Miba/processed_61.wav|0|na↓n^iga n^a↓ajo. wa↑taʃi↓tatʃino he↑ja↓o m a a↑kiɾa↓dʑɯtsɯno ba↑ʃon^i ʃi↑na↓idejone?
+./custom_character_voice/hogwarts_Miba/processed_62.wav|0|n^a↓N…… ɸɯ*↑tagono ka↑ŋkakɯga tsɯ↑ɯdʑite i↑ɾɯ ko↑to↓o ɾi↑joo sɯ↑ɾɯ↓nante…… a↑ʃi↓ga ka↑kɯ↓kakɯ* sɯ↑ɾɯ……
+./custom_character_voice/hogwarts_Miba/processed_63.wav|0|ɯ↓ɯɯɯ…… tsɯ↑ɾɯijo…… wa↑taʃino me↑noma↓ede sɯ↑ɾɯ↓nante…… se↑Nse↓eno o↑tʃi↓n^tʃiŋga wa↑taʃino a↑sokon^i ha↑it#te↓ɾɯ mi↓tai……
+./custom_character_voice/hogwarts_Miba/processed_64.wav|0|ma↑t#takɯ* ho↑ntoon^i o↑ne↓etʃaŋga i↑naito da↑me↓na no↑ne↓e se↑kin^iN mo↓t#te ʃi↓itsɯo a↑ɾainasaijo.
+./custom_character_voice/hogwarts_Miba/processed_65.wav|0|se↑Nse↓e, mi↓tee. wa↑taʃino a↑soko, mo↓o ko↑nnan^i na↓t#tʃa i↑ma↓ʃi*ta. mi↑wakɯno dʑɯ↓ɯsɯ, ki↓ɾeen^i ʃi*↑te kɯ↑dasa↓i.
+./custom_character_voice/hogwarts_Miba/processed_66.wav|0|n^a↑ha↓aN! to↓odʑin^i na↑me↓ɾaɾete, i↑ɾeɾaɾete↓ɾɯ ka↑ŋkakɯ, mo↓o ga↓maN de↑ki↓nai!
+./custom_character_voice/hogwarts_Miba/processed_67.wav|0|………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+./custom_character_voice/hogwarts_Miba/processed_68.wav|0|sɯ↑go↓kɯ, sɯ↑go↓kɯ* he↓nna ka↑n^dʑi. wa↑taʃi*to so↑k#kɯ↓ɾina ka↑oga me↑noma↓en^i a↓t#te, ma↑ɾɯde dʑi↑bɯnto se↓k#kɯ*sɯ ʃi*↑te↓ɾɯ mi↓tai.
+./custom_character_voice/hogwarts_Miba/processed_69.wav|0|wa↑taʃi…… wa↑taʃino ta↑me…… n^i↓baino ze↑t#tʃoojo↓ohoo……
+./custom_character_voice/hogwarts_Miba/processed_70.wav|0|m o, mo↓o tsɯ*↑kaɾe↓tano…… n^a↓a a↓a! ha↓ite ki↓ta a↑aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+./custom_character_voice/hogwarts_Miba/processed_71.wav|0|ba↓ka so↑nna to↓ko na↑me↓naidejo i↑ɾeɾaɾete na↑me↓ɾaɾetaɾa ko↑waɾetʃaɯ↓jo.
+./custom_character_voice/hogwarts_Miba/processed_72.wav|0|ba↓ka! na↑ŋ↓kai ja↑ɾɯ tsɯ↑moɾijo!
+./custom_character_voice/hogwarts_Miba/processed_73.wav|0|a, wa↑taʃiwa mo↑ndai a↑ɾimase↓Njo. ta↓da, mi↑ɯga ne↓te i↑ɾɯ to↓kin^i se↑Nse↓eno na↑maeo sa↑kebina↓gaɾa a↑sokoo……
+./custom_character_voice/hogwarts_Miba/processed_74.wav|0|a, wa↑taʃiwa mo↑ndai a↑ɾimase↓Njo. ta↓da, mi↓jɯga ne↓te i↑ɾɯ to↓kin^i se↑Nse↓eno na↑maeo jo↑bina↓gaɾa a↑sokoo……
+./custom_character_voice/hogwarts_Miba/processed_75.wav|0|a↑no ko↑no ma↓ɾjokɯga wa↑taʃin^imo e↑ekjoo sɯ↑ɾɯ n↓desɯ* mjɯ↓ɯno ma↓ɾjokɯga ta↑kama↓t#ta to↑ki↓wataʃino ma↓ɾjokɯwa gja↑kɯn^i hi*↑kɯ↓kɯnat#te ʃi↑maɯ n↓desɯ*.
+./custom_character_voice/hogwarts_Miba/processed_76.wav|0|w a, wa↓aaa! na↓n^i i↑t#te↓ɾɯnojo ba↓ka! ha↑zɯkaʃi↓ideʃo!
+./custom_character_voice/hogwarts_Miba/processed_77.wav|0|…… ɾe↑iɾaseNse↓ega i↑kinaɾi i↑ɾop#po↓kɯnat#ta. ko↑nna ɾe↑iɾaseNse↓e mi↓ta ko↑to a↑ɾimase↓N.
+./custom_character_voice/hogwarts_Miba/processed_78.wav|0|ho↑nton^i… mi↑nna↓no ma↓ede ɸɯ*↑kɯ↓o… w a, ha↑zɯkaʃi*sɯgima↓sɯ*joo…
+./custom_character_voice/hogwarts_Miba/processed_79.wav|0|a, ba↓kabaka! a↑nata↓nan^i i↑t#te↓ɾɯno? ko↑ɾedʑa wa↑taʃi↓tatʃimo i↑NɾaN mi↓taidʑanai?
+./custom_character_voice/hogwarts_Miba/processed_80.wav|0|ɯ↓ɯɯ…… na↓nde wa↑taʃima↓de…… mi↓ɯ, a↑na↓tamo sɯ*↑ko↓ʃiwa te↑ekoo ʃi↑nasaijo…… ba↓ka.
+./custom_character_voice/hogwarts_Miba/processed_81.wav|0|ma↑tada↓wa…… ɸɯ*↑tagono so↑ogoha↓nnoo…… i↓tsɯmo ko↓onanojo……
+./custom_character_voice/hogwarts_Miba/processed_82.wav|0|a↓aa, a↑sokoga bi↑ŋkann^i na↑t#te↓ɾɯno. so↑nnaɸɯ↓ɯn^i sa↑wat#ta↓ɾa wa↑taʃi, a↓a, da↑me, ko↑ɾega↓maN de↑ki↓naijo.
+./custom_character_voice/hogwarts_Miba/processed_83.wav|0|tʃ i, tʃi↑gaima↓sɯ*. ko↑ɾewa ɾe↑edaaseNse↓eno o↑te↓ʃɯga, ki↑motʃijosɯgi↓ɾɯ n↓desɯ*.
+./custom_character_voice/hogwarts_Miba/processed_84.wav|0|ɯ↑ɯ↓N i↑kinaɾi sɯ↑gima↓sɯ* ma↓da ko↑ko↓ɾono dʑɯ↓mbiga de↑ki*temase↓N.
+./custom_character_voice/hogwarts_Miba/processed_86.wav|0|ɯ↓ɯ…… i↑wana↓ide kɯ↑dasa↓i…… ha↑zɯkaʃi↓ijo……
+./custom_character_voice/hogwarts_Miba/processed_88.wav|0|d a, da↑idʑo↓obɯdesɯ*. mjɯ↓ɯga de↑ki↓ɾɯ ko↑to, wa↑taʃin^i de↑ki↓nai wa↓ke na↓i. ta↓dano se↑eko↓oideʃo?
+./custom_character_voice/hogwarts_Miba/processed_90.wav|0|na↓nde, ko↑nnan^i ki↑motʃii↓ino? dʑi↑bɯnde sɯ↑ɾɯ to↓kijoɾi, na↑m↓baimo ki↑motʃii↓idesɯ*!
+./custom_character_voice/hogwarts_Miba/processed_91.wav|0|so↑nna ha↑tsɯdʑoona↓nte… do↑obɯtsɯdʑanaiʃi… do↑obɯtsɯdakega ha↑tsɯdʑoo sɯ↑ɾɯ↓nojo.
+./custom_character_voice/hogwarts_Miba/processed_93.wav|0|ba↓ka, mi↓ijɯ, a↑na↓taga so↑nnan^i ka↑n^dʑiteta↓ɾa, wa↑taʃimo, ɯ↓ɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯɯ.
+./custom_character_voice/hogwarts_Miba/processed_94.wav|0|N↑NN↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓N N↓NN.
